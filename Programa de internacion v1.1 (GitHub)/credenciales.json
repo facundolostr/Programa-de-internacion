@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "internaciones",
+  "private_key_id": "5ac744225b5f39aa1d0d3257a63ec664ba595ec9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQq/x6/BhZd2S/\n0nuGE4pLryU0Mz9BzGeBow07knsuVbBip3yTj545BrJcxbj/2SdM8JZnGLs5JKVo\n4QXfQq7tHN8At0RAmoprByoqCUgFq53GqPyDNWKkAJLrFdsvXbaYtdqG6GZcY/mP\nF95M2zSKzdGCR9t+oxCkNL0VKLaNmag6qvKubIj0yhWEzRmMaeWjL2GTELhW5XPb\nJbHoIA0HFEs0bzKcPsT/WAGWZpTGkDerRC7FO1VtlGeOSqXn8FAED5H90R/1o9ZT\nyG5zY7O+g95ork8k4+4mS9T1nSG47PmVGHNgw3Z01izvQLACmBfJs4Z3Excb/SDO\npL/QUu/tAgMBAAECggEAU3ILT6UDGbfYdqr1kYq72YMrJgI+UBIs7BbngkST9NX4\naKMgeqPKenR2nAnHbqyIfkiRZJ3rtLC2YsflgL/aUuCiPteKuCj0pFMjpda7UeUs\nfVZzUAbnsLy4A8FkOr9Hdy71udAyqsyh7fp1/5cDHmSq3OXeXPhZfcjHOjBjPCEW\nynzBFdH2BFyv5Jt32qFJgMbYETiXxuqsOfl85xsHpS5VlSHsRt/Z8XalF8cE4FaR\niTyV5jWzIDdIRDFrfy0aTHhXj9rMvRL7KS8oGZuSVyKsQbLcMGyPb68FgDTPBg5g\nq9kozf8cNf58HOGTsWG4SqTMYcfyxMxwNycICYcL0wKBgQDt3y69kXI+C3O6tlst\nETezo1ASpuwZBCzA8Sbz9spcgclFgt5FAC8ydmrZxfBAkR9Q88EjnhCpOUE8Nc6Y\ngVj/R16MPjKD8syP92JBlPKl8l1WbAddyahUXpWzvNfRkVJ38HRqD7je2YAlrtSC\nfkyQWdtm3Mw5sLvl77OFESrxcwKBgQDgkx6X37JMN54egSVP6maV8nKJO6jUfIek\nQCOCuhxjCEtmj20dLEW4I6xczroupYRXV1aCT/Usgq5tygX8uHoVlIX2xF5GcWPs\nwDKbLvbM8IMywDrUWhFmCR1kd/uMfAGwxwCGapTGpj7GKt9AVeqfOUm48WkpGvzN\nuZxYzYjBHwKBgAoBupCk/r5Xcv3mz/0cXVCETUkLlqESyOMxAed/eVHc79+puroC\nYPnpe2M/7XR55mxcZMKf0qmby//Bb7iAsILEuNiDgVKFs09XI94IaxDKGl0ZXFH4\nuskZ1YhjKF0blPGQvwT7NlbBpZ9wNGZs88Ga1h0Eqt6+bZkltVKiv0C7AoGAIT4F\nyEtnlBqjgDZztHmpB8ckpyW6nwFz/p8z4nT0IMCokJzodOoJw/Eb4X0EWEVN6rPV\n7WIyk40gjsXZzwfromgi0F1O6zR7qx7kHs573+g2M3v6+VX/v0/YFvgftzLf+S/r\n5vm93g3buu+7rkVJfpo3THYHr/r7suQnvYlnFdcCgYEAyciqjyD03jPwmRV5pS13\nx1usk/fF+Qo/PVwPgKbytx8oOtSxb1YGkK2U816ET64oVAJMfUkechqP3pcjDHS2\nq9nKopmsIs6JaweujMV3L4AGy4WIkliWrKMAilhAjPy/aSBbtkS0HLPKKSwiRsSQ\nKEg2zAB+18C5X/MAcgujxTg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-acceso-planilla@internaciones.iam.gserviceaccount.com",
+  "client_id": "111323364201218357576",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-acceso-planilla%40internaciones.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
